@@ -1,0 +1,19 @@
+{
+  "name": "HORSOFT",
+  "short_name": "HORSOFT",
+  "icons": [
+
+    {
+      "src": "https://www.horsoft.cf/assets/images/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "density": 1.0
+    }
+ 
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#1f1f1f",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape"
+}
