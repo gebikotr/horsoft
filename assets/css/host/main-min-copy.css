@@ -3266,7 +3266,7 @@ button.swiper-pagination-bullet {
 	border-radius:10px 10px 0 0;
 	padding:2px 6px 4px;
 	line-height:15px;
-	background:#3cffff;
+	background:#f14646;
 	color:#000;
 	font-size:11px;
 	font-weight:600;
@@ -3394,7 +3394,7 @@ button.swiper-pagination-bullet {
 	white-space:nowrap;
 }
 .movies-and-episodes .dark-segment.episodes-segment-h>ul li .timeline-date.today {
-	background:#f96868;
+	background:#50d3f1;
 	color:#000
 }
 .movies-and-episodes .dark-segment.episodes-segment-h>ul li .poster.poster-xs a {
@@ -3417,7 +3417,7 @@ button.swiper-pagination-bullet {
 	right:15px;
 }
 .movies-and-episodes .dark-segment.episodes-segment-h>ul li.tv-today .poster.poster-xs a img {
-	border-color:#ff0000
+	border-color:#50d3f1
 }
 .dark-segment>ul .segment-poster {
 	width:25%
@@ -7125,7 +7125,7 @@ html.mm-triggered body {
 	display:flex;
 	align-items:center;
 	padding:0 10px;
-	background:#fdc608;
+	background:#50d3f1;
 	border-radius:15px;
 	color:#000;
 	height:28px
@@ -7149,7 +7149,7 @@ html.mm-triggered body {
 .trending-list .trending-item .trending-item-details .trending-item-ratings .rating-item .imdb-rating .mofycon {
 	width:13px;
 	height:13px;
-	fill:#fdc608;
+	fill:#50d3f1;
 	margin-right:7px
 }
 .trending-list .trending-item .trending-item-details .trending-item-overview {
@@ -7540,7 +7540,7 @@ html.mm-triggered body {
 }
 .filter-results li .poster-with-subject .subject .subject-title>div .poster-meta .rating .mofycon {
 	position:relative;
-	fill:#fdc608;
+	fill:#50d3f1;
 	width:13.8px;
 	height:13px;
 	display:inline-block;
@@ -18215,10 +18215,10 @@ div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline
 }
 .gl-detail-box .point-stars .star.halfstar:before {
 	content:"\f123";
-	color:#fdc608
+	color:#50d3f1
 }
 .gl-detail-box .point-stars .star.hover:before {
-	color:#fdc608
+	color:#50d3f1
 }
 .gl-detail-box .unvoted .point-stars .star.hoverc:before {
 	color:grey
@@ -24456,8 +24456,6 @@ iframe#youtube {
 	background-image:none;
 	border-radius:5px;
 }
-
-/*
 .desktop-only {
 		display:block;
 	font-size:11px;
@@ -24470,7 +24468,6 @@ iframe#youtube {
 	color:#6d7080;
 	text-align:center;
 }
-*/
 .actiond i: {
 	font-size:20px;
 }

@@ -1,0 +1,13 @@
+/*  STAR LOADER Anasayfa  */
+    .js div#preloader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  background: #171a27 url('https://cdn.glitch.com/87d9c920-b61f-4379-9c4f-14c2064ff94f%2Fsayfalar.gif') no-repeat center center;
+}
+/*  #333 ARKA PLAN RENGİ  */
+/*  FNİSH LOADER Anasafya  */
